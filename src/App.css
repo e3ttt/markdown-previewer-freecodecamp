@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 :root {
   --gray: #ccc;
 }
@@ -5,7 +9,7 @@
 .app {
   display: flex;
   height: 100vh;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .editor-container {
@@ -39,4 +43,14 @@
 
 .previewer-container {
   width: 55%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 0 40px;
+}
+
+#preview-title {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
 }

@@ -1,6 +1,7 @@
 import './App.css';
 
 import Editor from './components/Editor';
+import Previewer from './components/Previewer';
 
 function App() {
   return (
@@ -8,7 +9,9 @@ function App() {
       <div className="editor-container">
         <Editor />
       </div>
-      <div className="previewer-container">Preview</div>
+      <div className="previewer-container">
+        <Previewer />
+      </div>
     </div>
   );
 }
