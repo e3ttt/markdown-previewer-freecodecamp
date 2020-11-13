@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/markdown-previewer-freecodecamp/static/css/main.ed076a68.chunk.css",
+    "main.css": "/markdown-previewer-freecodecamp/static/css/main.83d9a36b.chunk.css",
     "main.js": "/markdown-previewer-freecodecamp/static/js/main.8eeafc57.chunk.js",
     "main.js.map": "/markdown-previewer-freecodecamp/static/js/main.8eeafc57.chunk.js.map",
     "runtime-main.js": "/markdown-previewer-freecodecamp/static/js/runtime-main.585e5f5c.js",
@@ -10,13 +10,13 @@
     "static/js/3.6f167741.chunk.js": "/markdown-previewer-freecodecamp/static/js/3.6f167741.chunk.js",
     "static/js/3.6f167741.chunk.js.map": "/markdown-previewer-freecodecamp/static/js/3.6f167741.chunk.js.map",
     "index.html": "/markdown-previewer-freecodecamp/index.html",
-    "static/css/main.ed076a68.chunk.css.map": "/markdown-previewer-freecodecamp/static/css/main.ed076a68.chunk.css.map",
+    "static/css/main.83d9a36b.chunk.css.map": "/markdown-previewer-freecodecamp/static/css/main.83d9a36b.chunk.css.map",
     "static/js/2.3e0f4b61.chunk.js.LICENSE.txt": "/markdown-previewer-freecodecamp/static/js/2.3e0f4b61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.585e5f5c.js",
     "static/js/2.3e0f4b61.chunk.js",
-    "static/css/main.ed076a68.chunk.css",
+    "static/css/main.83d9a36b.chunk.css",
     "static/js/main.8eeafc57.chunk.js"
   ]
 }
